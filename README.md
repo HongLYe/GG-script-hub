@@ -1,1 +1,1 @@
-# GG-script-hub
+# Phoenix Hub
