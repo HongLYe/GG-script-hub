@@ -1,5 +1,5 @@
 -- 
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/twistedk1d/BloxStrike/refs/heads/main/Source/UI/source.lua"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/HongLYe/GG-script-hub/main/source/source2.lua"))()
 
 --// YUKIO KEY SYSTEM
 
